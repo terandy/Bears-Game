@@ -1,0 +1,8 @@
+let GAME_WIDTH = 1260
+let GAME_HEIGHT =  500
+let ENEMY_WIDTH = 40 
+let ENEMY_HEIGHT = 40 
+let MAX_ENEMIES = 2
+let PLAYER_WIDTH = 40 
+let PLAYER_HEIGHT = 180
+console.log('data.js')
